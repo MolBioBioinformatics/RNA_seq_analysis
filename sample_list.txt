@@ -1,0 +1,4 @@
+ES	ES.RNA.rep1	ES.RNA.rep1.fastq
+ES	ES.RNA.rep2	ES.RNA.rep2.fastq
+NPC	NPC.RNA.rep1	NPC.RNA.rep1.fastq
+NPC	NPC.RNA.rep2	NPC.RNA.rep2.fastq

@@ -1,0 +1,6 @@
+STAR_REF	/home/ji/data/CPMB/pipeline_RNA/ref
+FASTQ_DIR	/home/ji/data/CPMB/pipeline_RNA/fastq
+PICARD	/home/ji/tools/picard-tools/picard-tools-1.100
+HTseq	/home/ji/.local/bin/htseq-count
+STAR	/usr/local/bin/STAR
+GTF	/home/ji/data/CPMB/pipeline_RNA/ref/gtf
